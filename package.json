@@ -1,0 +1,14 @@
+{
+  "name": "kr-downloader-pro",
+  "version": "2.1.0",
+  "description": "Powerful Video Downloader API",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "axios": "^1.4.0",
+    "cors": "^2.8.5"
+  }
+}
